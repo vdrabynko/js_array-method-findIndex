@@ -1,8 +1,8 @@
 {
-  "name": "array-method-filter",
+  "name": "array-method-find-index",
   "version": "1.0.0",
-  "description": "Custom implementation of Array.prototype.filter()",
-  "main": "src/arrayMethodFilter.js",
+  "description": "Custom implementation of Array.prototype.findIndex()",
+  "main": "src/arrayMethodFindIndex.js",
   "scripts": {
     "test": "jest",
     "lint": "eslint **/*.js"
