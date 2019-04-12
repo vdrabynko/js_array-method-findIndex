@@ -4,7 +4,7 @@
  * Implement method FindIndex
  */
 function applyCustomFindIndex() {
-  [].__proto__.findIndex2 = function() {
+  [].__proto__.findIndex2 = function(callback) {
     // write code here
   };
 }
